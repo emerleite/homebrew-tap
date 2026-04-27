@@ -3,8 +3,8 @@ class D1cli < Formula
 
   desc "Interactive SQL REPL for Cloudflare D1 databases"
   homepage "https://github.com/emerleite/d1cli"
-  url "https://files.pythonhosted.org/packages/cb/ba/572272257ce38d7f4ed390973f9de3c765baa70a11fec091c7b43f81c55b/cloudflare_d1cli-0.1.7.tar.gz"
-  sha256 "b15e3d2cfdeabcbd9b3e1d8eb9dd5489217e814bf7e87f2a6c34c25560d39d68"
+  url "https://files.pythonhosted.org/packages/97/27/8df42d4f9d8b935b11e9c9b994503b51635ba95321ba39479796cde6318d/cloudflare_d1cli-0.1.8.tar.gz"
+  sha256 "079452ea99b7b9160b811c3936ceadd1374d4d7bbeb246dcb78420a01110dced"
   license "MIT"
 
   depends_on "python@3.12"
